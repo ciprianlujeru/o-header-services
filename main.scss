@@ -1,4 +1,5 @@
 @import 'o-header/main';
+@import 'o-icons/main';
 @import 'o-typography/main';
 @import 'o-grid/main';
 
@@ -7,6 +8,8 @@
 @import 'src/scss/drawer';
 @import 'src/scss/top';
 @import 'src/scss/primary_nav';
+@import 'src/scss/secondary_nav';
+
 
 @import 'src/scss/themes/b2b';
 @import 'src/scss/themes/b2c';
